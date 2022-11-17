@@ -1,0 +1,6 @@
+W:/Все для учебы/2 курс/Java/Java_lab/mp2-lab1-set-master/build/CMakeFiles/ALL_BUILD.dir
+W:/Все для учебы/2 курс/Java/Java_lab/mp2-lab1-set-master/build/CMakeFiles/ZERO_CHECK.dir
+W:/Все для учебы/2 курс/Java/Java_lab/mp2-lab1-set-master/build/src/CMakeFiles/set.dir
+W:/Все для учебы/2 курс/Java/Java_lab/mp2-lab1-set-master/build/samples/CMakeFiles/sample_prime_numbers.dir
+W:/Все для учебы/2 курс/Java/Java_lab/mp2-lab1-set-master/build/gtest/CMakeFiles/gtest.dir
+W:/Все для учебы/2 курс/Java/Java_lab/mp2-lab1-set-master/build/test/CMakeFiles/test_set.dir
