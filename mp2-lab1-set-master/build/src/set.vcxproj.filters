@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="W:\Все для учебы\2 курс\Java\Java_lab\mp2-lab1-set-master\src\tbitfield.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W:\Все для учебы\2 курс\Java\Java_lab\mp2-lab1-set-master\src\tset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="W:\Все для учебы\2 курс\Java\Java_lab\mp2-lab1-set-master\include\tbitfield.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W:\Все для учебы\2 курс\Java\Java_lab\mp2-lab1-set-master\include\tset.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="W:\Все для учебы\2 курс\Java\Java_lab\mp2-lab1-set-master\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5FD631F0-5BAD-32DC-9D45-52A5FBC0D15D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2D6D11DD-1507-3349-A572-723278E536DA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

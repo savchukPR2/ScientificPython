@@ -1,0 +1,6 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  tset.cpp
+  tbitfield.cpp
+  Создание кода...
+W:\Все для учебы\2 курс\Java\Java_lab\mp2-lab1-set-master\src\tset.cpp(145): warning C4715: operator>>: значение возвращается не при всех путях выполнения
+  bitfield.vcxproj -> W:\Все для учебы\2 курс\Java\Java_lab\mp2-lab1-set-master\sln\vc9\Debug\bitfield.lib
